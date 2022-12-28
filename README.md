@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div> 
     <a href="https://www.instagram.com/john_lennon_leao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:johnlennonleao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:/https://www.linkedin.com/in/john-lennon-le%C3%A3o-a54baa21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https:/https://wa.me/qr/NUTOR3OUVURDM1" target="_blank"><img width="100" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/john-lennon-le%C3%A3o-a54baa21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/qr/NUTOR3OUVURDM1" target="_blank"><img width="100" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" target="_blank"></a>
 </div>
 
