@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/JohnLennonLeao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnLennonLeao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  
+  <img href="https://github-readme-stats.vercel.app/api?username=JohnLennonLeao&show_icons=true&theme=merko"/>
  
-</div>
+</div>-->
+<div align="center">
+<img href="https://github-readme-stats.vercel.app/api?username=JohnLennonLeao&show_icons=true&theme=merko"/>
+<https://github-readme-stats.vercel.app/api?username=JohnLennonLeao&show_icons=true&theme=transparent>
+<div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
